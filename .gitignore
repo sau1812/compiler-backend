@@ -1,0 +1,13 @@
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Temporary files created during code execution
+temp_*
+java_*
+*.exe
+*.out
+*.class
+*.in
